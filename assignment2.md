@@ -43,7 +43,7 @@ while True:
          
          cost=quantity*price
          total_cost+=cost
-        print('total cost:$',total_cost)
+        print('total cost:$',total_cost \n payment successful)
     elif user_input==5:
         print('about us \n welcome to our store,we deal in quality goods,we do delivery \n thank you')
     elif user_input==6:
